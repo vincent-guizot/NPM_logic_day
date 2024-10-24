@@ -1,0 +1,27 @@
+{
+  "name": "npm_logic_day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent-guizot/NPM_logic_day.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincent-guizot/NPM_logic_day/issues"
+  },
+  "homepage": "https://github.com/vincent-guizot/NPM_logic_day#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "tailwindcss": "^3.4.14"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
